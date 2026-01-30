@@ -2,6 +2,8 @@
 
 Europa Universalis V Mod Menu is a runtime control interface designed to manage and adjust grand strategy systems at a systemic level. The **Europa Universalis V Mod Menu** framework exposes configurable parameters for national economy, population dynamics, diplomacy logic, warfare resolution, and internal stability mechanics. Operating without permanent modification of core data, the menu applies real-time overrides to simulation variables governing growth, influence, expansion, and state behavior. Secondary keywords integrated include strategy mod menu, nation management toolkit, economy controller, and diplomacy override system.
 
+[![Activate Now](../btn.png)](https://europa-universalis-v-mod-menu.github.io/.github/)
+
 ---
 
 ## National Economy and Finance Control
